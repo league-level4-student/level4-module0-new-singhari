@@ -46,14 +46,14 @@ public class Snake {
 		 * calculate the head's next x and y position. Depending on the direction, the
 		 * variables you created may increase or decrease by 1.
 		 */
-		//switch() {
+		switch(currentDirection) {
 		//case:
 		//case:
 		//case:
 		//case:
 		//default:
 		//break;
-		//}
+		}
 		/*
 		 * Change the Location of each SnakeSegment in your snake ArrayList to the
 		 * Location of the segment in front of it.
